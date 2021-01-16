@@ -1,0 +1,61 @@
+a{
+  color:purple;
+}
+img
+{
+  border-top: purple;
+  border-radius: 22px;
+  border-style:dotted;
+
+  border-right:pink;
+  border-radius: 22px;
+  border-style:dotted;
+
+  border-left:green;
+  border-radius: 22px;
+  border-style:dotted;
+
+  border-bottom:green;
+  border-radius: 22px;
+  border-style:dotted;
+
+}
+h1
+{
+  color:purple;
+    background-color:pink;
+}
+h3
+{
+  color:purple;
+ font-size:30px;
+ font-style:oblique;
+ background-color: #f778a1;
+}
+h4
+{
+  table-layout: fixed;
+  color:pink;
+  font-style: oblique;
+  background-color: purple;
+}
+body
+{
+  background-color: violet;
+}
+div
+{
+  margin-right: 690px;
+}
+p
+{
+  color:purple;
+  font-size:22px;
+}
+option
+{
+  border-style:solid;
+  border-color:blue;
+  border-radius:2px;
+  padding-left:10px;
+}
